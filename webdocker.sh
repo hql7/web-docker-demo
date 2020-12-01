@@ -1,0 +1,1 @@
+# docker run -p 6740:6740 -d name vueapp -- mount type=bind,source=$HOME/docker/demo/nginx,target=/
